@@ -37,6 +37,6 @@ Automação de Processos: Desenvolvimento de soluções que aumentam eficiência
 
 Automação e inovação em logística
 
-Desenvolvimento de ferramentas para análises estratégicas eAutomação de Processos
+Desenvolvimento de ferramentas para análises estratégicas e Automação de Processos
 
 Projetos que conectam tecnologia e operações
