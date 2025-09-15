@@ -21,9 +21,9 @@
 [![Alison GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=alisonbruno013&layout=pie)](https://github.com/alisonbruno013/)
 
 
-🎓 Estudante de Ciência da Computação (7º semestre)
+🎓 Estudante de Ciência da Computação (8º semestre)
 
-🚛 Supervisor de Inventário com mais de 6 anos de experiência em logística
+🚛 Especialista em Planejamento com mais de 6 anos de experiência em logística
 
 📊 Ex-Coordenador de Planejamento, especializado em análise e automação de processos corporativos
 
