@@ -18,7 +18,7 @@
         <img src="https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=googleappsscript&logoColor=white" alt="Google Apps Script">
     </div>
 
-
+<\br>
 
 🎓 Estudante de Ciência da Computação (8º semestre)
 
