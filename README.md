@@ -18,7 +18,6 @@
         <img src="https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=googleappsscript&logoColor=white" alt="Google Apps Script">
     </div>
 
-[![Alison GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=alisonbruno013&layout=pie)](https://github.com/alisonbruno013/)
 
 
 🎓 Estudante de Ciência da Computação (8º semestre)
